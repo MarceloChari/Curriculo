@@ -1,0 +1,92 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #c4c4c4;
+}
+.cabecalho{
+    width: -webkit-fill-available;
+    height:200px;
+    background-color: #000000;
+    box-shadow: 0 10px 20px black;
+
+}
+
+.imagem{
+    height:100px;
+    width:100px;
+    float:left;
+    margin-top:25px;
+    margin-left:380px;
+}
+.foto{
+    width:150px;
+    height:150px;
+}
+.titulo{
+    float:left;
+    margin-left:60px;
+    color:white;
+    margin-top:25px;
+}
+
+.tit{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+pre{
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.conteudo{
+    float:left;
+    margin-left:350px;
+    margin-top:00px;
+    width:850px;
+    height:875px;
+    background-color: #262626;
+    box-shadow: 10px 10px 20px black;
+}
+.titobj{
+    margin-top:25px;
+    margin-left:25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color:white;
+}
+.obj{
+    margin-top:25px;
+    margin-left: 35px;
+    margin-right:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align:justify;
+    color:white;
+}
+
+.lista {
+    margin-top:25px;
+    margin-left: 45px;
+    margin-right:10px;
+}
+
+.lista li {
+    font-family: Arial, Helvetica, sans-serif;
+    color:white;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.rodape {
+    float:left;
+    margin-top:25px;
+    width: 100%;
+    background-color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
